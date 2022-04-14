@@ -1,4 +1,4 @@
-from tkinter.messagebox import YES
+
 import pandas as pd
 import streamlit as st
 import pickle
